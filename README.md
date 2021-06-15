@@ -1,11 +1,44 @@
 # PsyQA
 
+一个中文心理健康支持问答数据集，提供了丰富的援助策略标注。可用于生成富有援助策略的长咨询文本。
+
 This repo is for the paper: **PsyQA: A Chinese Dataset for Generating Long Counseling Text for Mental Health Support**
 
-[paper link](https://arxiv.org/abs/2106.01702)
- 
+Accepted by Finding of ACL 2021 [arxiv paper link](https://arxiv.org/abs/2106.01702)
 
-## Access to PsyQA
-We upload here some data examples of PsyQA (PsyQA_example.json). 
 
-We will provide how to access the full dataset (by signing a user agreement) very soon!
+
+## 获取PsyQA | Access to PsyQA
+
+我们提供了少部分PsyQA的样例（PsyQA_example.json）
+
+如需要完整数据，请下载【PsyQA数据集使用用户协议】并阅读相关规定。如您同意规定，请在用户协议中填写相关用户信息并在协议最后【电子签名】，发送到邮件 h-sun20@mails.tsinghua.edu.cn
+
+The English version of PsyQA user agreement is soon coming.
+
+
+
+## 引用 | citing
+
+Please kindly cite our paper if this paper and the dataset are helpful.
+
+```
+@inproceedings{sun-etal-2021-psyqa,
+    title = "PsyQA: A Chinese Dataset for Generating Long Counseling Text for Mental Health Support",
+    author = "Sun, Hao  and
+      Lin, Zhenru  and
+      Zheng, Chujie  and
+      Liu, Siyang  and
+      Huang, Minlie",
+    booktitle = "Findings of the Association for Computational Linguistics: ACL 2021",
+    year = "2021",
+}
+```
+
+
+
+## 联系方式 | Contact Info
+
+如您对论文或数据集获取有任何疑问，欢迎联系
+
+孙豪 h-sun20@mails.tsinghua.edu
