@@ -41,4 +41,4 @@ Please kindly cite our paper if this paper and the dataset are helpful.
 
 如您对论文或数据集获取有任何疑问，欢迎联系
 
-孙豪 h-sun20@mails.tsinghua.edu
+孙豪 h-sun20@mails.tsinghua.edu.cn
