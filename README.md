@@ -17,7 +17,7 @@ h-sun20@mails.tsinghua.edu.cn。 我们在审核后会通过邮件发送完整�
 
 The English version of PsyQA user agreement is soon coming.
 
-
+训练代码我们参考了项目https://github.com/Morizeyao/GPT2-Chinese
 
 ## 引用 | citing
 
