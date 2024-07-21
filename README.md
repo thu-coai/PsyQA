@@ -13,7 +13,7 @@ Accepted by Finding of ACL 2021 [arxiv paper link](https://arxiv.org/abs/2106.01
 我们提供了少部分PsyQA的样例（PsyQA_example.json）
 
 如需要完整数据集，请下载【PsyQA数据集使用用户协议】并阅读相关规定。如您同意规定，请在用户协议中填写相关用户信息，【授权时间】，并在协议最后【电子签名】，将pdf格式的用户协议发送到邮箱 
-h-sun20@mails.tsinghua.edu.cn。 我们在审核后会通过邮件发送完整的数据集的下载链接。
+thu-sunhao@foxmail.com。 我们在审核后会通过邮件发送完整的数据集的下载链接。
 
 The English version of PsyQA user agreement is soon coming.
 
